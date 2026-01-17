@@ -3,9 +3,9 @@ Overview
 This repository documents the chronological evolution of the Sugo platform, specifically identifying when the Latin American (LATAM) market expansion occurred relative to the establishment of Rich Legacy.
 The evidence contained in these folders demonstrates that Rich Legacy was established, operational, and recruiting globally before the platform’s official US/LATAM expansion pushes.
 1. Friends Timeline
-Directory: Friends Timeline
+Directory: 01 Friends Timeline
 This section establishes the "baseline" of the server demographics before the LATAM shift.
-A. Video Verification (Subfolder: /Friends Timeline Videos)
+A. Video Verification (Subfolder: /01 Friends Timeline/Friends Timeline Videos)
 File: 01_Early_Server_Demographics.MP4
 Observation: Scrolls through the earliest connections in the user's friend list. The demographics are primarily Arab, Filipino, and English-speaking users. This is the "Pre-Expansion" era.
 File: 02_Latin_Expansion.MP4
@@ -22,7 +22,7 @@ Conclusion: Rich Legacy's network connections pre-date the platform's official p
 File: IMG_7235.jpg
 Support: Data entry showing activity from 2024-05-01, further pushing the establishment date back.
 2. Family Comparison
-Directory: Family Comparison
+Directory: 02 Family Comparison
 To determine chronological precedence, we analyzed Family IDs. Sugo uses sequential database indexing; lower numbers indicate earlier creation.
 File: IMG_7234.jpg
 Rich Legacy ID: 1287752 (Established Early)
@@ -36,7 +36,7 @@ File: IMG_7233.jpg
 Additional competitor comparison (ID shown in image).
 Conclusion: Rich Legacy was established approximately 540,000+ database transactions before major contemporary LATAM families, proving significant operational seniority.
 3. Bilingual Timeline
-Directory: Bilingual Timeline
+Directory: 03 Bilingual Timeline
 This folder documents the behavioral shift of Rich Legacy adapting to the platform's changes in real-time.
 Files: IMG_7247.HEIC, IMG_7248.HEIC, IMG_7249.HEIC, IMG_7250.HEIC, IMG_7251.HEIC,
 IMG_7252.HEIC, IMG_7253.HEIC, IMG_7254.HEIC, IMG_7255.HEIC, IMG_7257.HEIC, IMG_7258.HEIC,
@@ -51,7 +51,7 @@ Policy: A bilingual statement on agency cooperation ("We are not competition"), 
 File: Included in the IMG_72xx series above.
 Integration: By August, communication is predominantly Spanish, thanking the "equipo oficial."
 4. Event Highlights
-Directory: Event Highlights
+Directory: 04 Event Highlights
 Evidence of professional media production and official community leadership.
 A. Official Hosting (Subfolder: /Event Highlights Videos)
 File: 01_OfficialHost_3rdAnniversary.mp4
@@ -65,7 +65,7 @@ Production: Professional flyer for "Emo Night" (July 12).
 File: IMG_7246.jpg
 Collaboration: "Agency vs. Agency" PK Battle poster, showing sustained high-level operations.
 5. Sala Comparison
-Directory: Sala Comparison
+Directory: 05 Sala Comparison
 Final infrastructure proof using Room IDs.
 File: IMG_7264.HEIC, IMG_7265.jpg, IMG_7266.jpg, IMG_7267.jpg
 ID: 1250911
